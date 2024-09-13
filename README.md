@@ -28,13 +28,27 @@ To run the project, use the following command:
     python main.py
 
 ## FEATURES
-**Feature 1**: Data visualization using scatter plots to display the relationship between two DMV test scores and their results (pass/fail).
-**Feature 2**: Standardize the scores to have zero mean and unit variance for better numerical stability during training.
-**Feature 3**: Implements the logistic function for binary classification.
-**Feature 4**: Defines the cost function for logistic regression and computes gradients needed for optimization.
-**Feature 5**: Apply gradient descent to minimize the cost function and optimize the parameters of the logistic regression model.
-**Feature 6**: Plot the decision boundary on top of the scatter plot to separate the passing and failing results.
-**Feature 7**: Use the trained logistic regression model to predict the probability of passing the DMV test for new scores.
+
+### Feature 1: Data Visualization of DMV Test Scores
+Data visualization using scatter plots to display the relationship between two DMV test scores and their results (pass/fail).
+
+### Feature 2: Standardization of Test Scores
+Standardize the scores to have zero mean and unit variance for better numerical stability during training.
+
+### Feature 3: Logistic Function for Classification
+Implements the logistic function for binary classification.
+
+### Feature 4: Cost Function for Logistic Regression
+Defines the cost function for logistic regression and computes gradients needed for optimization.
+
+### Feature 5: Gradient Descent for Parameter Optimization
+Apply gradient descent to minimize the cost function and optimize the parameters of the logistic regression model.
+
+### Feature 6: Plotting the Decision Boundary
+Plot the decision boundary on top of the scatter plot to separate the passing and failing results.
+
+### Feature 7: Prediction of Passing Probability
+Use the trained logistic regression model to predict the probability of passing the DMV test for new scores.
 
 ## DOCUMENTATION
 ### Modules and Functions
