@@ -18,7 +18,7 @@ This project implements logistic regression to classify the results of DMV writt
 
 ### Steps
 1. Clone the repository:
-    git clone https://github.com/ocampbell378/LinearRegressionWithNumPy.git
+    git clone https://github.com/ocampbell378/DMVTestClassification.git
 
 2. Install the required libraries:
     pip install -r requirements.txt
